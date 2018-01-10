@@ -1,0 +1,384 @@
+[
+    {
+        "outputFile": "D:\\360Downloads\\ShaiXuan\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 12,
+                    "endColumn": 19,
+                    "endOffset": 330
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1101,
+                        "endLine": 50,
+                        "endColumn": 19,
+                        "endOffset": 1386
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 335,
+                    "endLine": 20,
+                    "endColumn": 19,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 788,
+                        "endLine": 35,
+                        "endColumn": 19,
+                        "endOffset": 989
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 534,
+                    "endLine": 24,
+                    "endColumn": 19,
+                    "endOffset": 631
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 995,
+                        "endLine": 39,
+                        "endColumn": 19,
+                        "endOffset": 1095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 636,
+                    "endLine": 36,
+                    "endColumn": 19,
+                    "endOffset": 925
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endLine": 14,
+                        "endColumn": 19,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 930,
+                    "endLine": 49,
+                    "endColumn": 19,
+                    "endOffset": 1287
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endLine": 27,
+                        "endColumn": 19,
+                        "endOffset": 782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 1292,
+                    "endColumn": 39,
+                    "endOffset": 1327
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 39,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 1332,
+                    "endColumn": 40,
+                    "endOffset": 1368
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 40,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1373,
+                    "endColumn": 57,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 1431,
+                    "endColumn": 55,
+                    "endOffset": 1482
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 1487,
+                    "endColumn": 52,
+                    "endOffset": 1535
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 105,
+                        "endColumn": 52,
+                        "endOffset": 153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 1540,
+                    "endColumn": 45,
+                    "endOffset": 1581
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 58,
+                        "endColumn": 45,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 1586,
+                    "endColumn": 34,
+                    "endOffset": 1616
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 327,
+                        "endColumn": 34,
+                        "endOffset": 357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 1621,
+                    "endColumn": 52,
+                    "endOffset": 1669
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 52,
+                        "endOffset": 207
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 1674,
+                    "endColumn": 37,
+                    "endOffset": 1707
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 213,
+                        "endColumn": 37,
+                        "endOffset": 246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 1712,
+                    "endColumn": 36,
+                    "endOffset": 1744
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 252,
+                        "endColumn": 36,
+                        "endOffset": 284
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 1749,
+                    "endColumn": 35,
+                    "endOffset": 1780
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 35,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 1785,
+                    "endLine": 68,
+                    "endColumn": 12,
+                    "endOffset": 2072
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 14,
+                        "endColumn": 12,
+                        "endOffset": 483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 2077,
+                    "endLine": 71,
+                    "endColumn": 12,
+                    "endOffset": 2232
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 524,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 2237,
+                    "endLine": 79,
+                    "endColumn": 12,
+                    "endOffset": 2707
+                },
+                "from": {
+                    "file": "D:\\360Downloads\\ShaiXuan\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 721,
+                        "endLine": 28,
+                        "endColumn": 12,
+                        "endOffset": 1198
+                    }
+                }
+            }
+        ]
+    }
+]

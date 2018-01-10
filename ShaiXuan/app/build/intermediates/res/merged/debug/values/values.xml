@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cuiping">
+        <item>全翠屏</item>
+        <item>老城区</item>
+        <item>南岸西区</item>
+        <item>南岸东区</item>
+        <item>上江北</item>
+        <item>下江北</item>
+        <item>外江路</item>
+        <item>大观楼</item>
+        <item>西郊</item>
+    </string-array>
+    <string-array name="huxing">
+        <item>不限</item>
+        <item>一室</item>
+        <item>二室</item>
+        <item>三室</item>
+        <item>四室</item>
+        <item>四室以上</item>
+    </string-array>
+    <string-array name="nanxi">
+        <item>全南溪</item>
+        <item>南溪镇</item>
+    </string-array>
+    <string-array name="quyu">
+        <item>全宜宾</item>
+        <item>翠屏区</item>
+        <item>宜宾县</item>
+        <item>南溪</item>
+        <item>江安</item>
+        <item>长宁</item>
+        <item>高县</item>
+        <item>筠连</item>
+        <item>珙县</item>
+        <item>兴文</item>
+    </string-array>
+    <string-array name="zongjia">
+        <item>不限</item>
+        <item>20万以下</item>
+        <item>20–30万</item>
+        <item>30–40万</item>
+        <item>40–50万</item>
+        <item>50–60万</item>
+        <item>60–80万</item>
+        <item>80–100万</item>
+        <item>100–120万</item>
+        <item>120–150万</item>
+        <item>150万以上</item>
+    </string-array>
+    <color name="click">#ffffff</color>
+    <color name="defult">#F5F5F5</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">shaixuan</string>
+    <string name="desc">s</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="huxing">户型</string>
+    <string name="jiage">价格</string>
+    <string name="quyu">区域</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="dialog_trans_black" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">#00000000</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+</resources>
